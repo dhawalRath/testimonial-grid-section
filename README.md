@@ -1,41 +1,21 @@
-# Frontend Mentor - Testimonials grid section solution
+# :star2: Frontend Mentor - Testimonials grid section :star2:
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+### :point_right: [Live Site](https://dhawalrath.github.io/testimonial-grid-section/)
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+## :camera: Overview
 
-## Overview
+![Desktop](./screenshots/desktop.png)
 
-### Screenshot
+## :muscle: Built With
 
-![](./screenshots/desktop.png)
-![](./screenshots/tablet.png)
-![](./screenshots/mobile.png)
-
-
-### Links
-
-- Live Site URL: [view here](https://dhawalrath.github.io/testimonial-grid-section/)
-
-## My process
-
-By observing the design I try to visualize number of contianers required and accordingly I choose Grid, Flexbox or both.
-
-### Built with
-
-- Semantic HTML5 markup
+- HTML5 Semantics
 - SCSS
-- Flexbox
-- Grid
+- CSS3 (with Grid and Flexbox)
+- Media Queries (for Mobile design)
 
-## Author
+## :man: Author
 
 - Frontend Mentor - [@dhawalRath](https://www.frontendmentor.io/profile/dhawalRath)
 - Twitter - [@dhawalRath](https://www.twitter.com/dhawalRath)
